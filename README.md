@@ -1,2 +1,2 @@
 # test-dco-impl
-Enable dco on a github repo.
+Enable DCO on a github repo.
